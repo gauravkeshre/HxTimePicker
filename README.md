@@ -1,10 +1,11 @@
 # HxTimePicker
 
-An Android like Picker view for iOS developed in swift.
+An Android like time picker developed in Swift.
 
 Uasge:
 - Drop a UIView 
 - Change the class (in Identiy Inspector) 
 
 Sample
- 
+
+![Alt text](https://github.com/gauravkeshre/HxTimePicker/blob/master/Sample.png?raw=true "Optional Title")
