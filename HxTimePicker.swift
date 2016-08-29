@@ -1,6 +1,6 @@
 //
 //  HxTimePicker.swift
-//  ParkE
+//  HXLOOP.com
 //
 //  Created by Gaurav Keshre on 05/06/16.
 //  Copyright © 2016 Hexagonal Loop. All rights reserved.
